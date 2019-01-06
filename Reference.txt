@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/18039057/python-pandas-error-tokenizing-data
+https://stackoverflow.com/questions/21546739/load-data-from-txt-with-pandas
+https://stackoverflow.com/questions/39213597/convert-text-data-from-requests-object-to-dataframe-with-pandas
+https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id
+https://stackoverflow.com/questions/41157981/pandas-convert-float-in-scientific-notation-to-string
+https://stackoverflow.com/questions/17216114/iteratively-read-tsv-file-for-pandas-dataframe
